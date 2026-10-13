@@ -1,4 +1,4 @@
-# ViruStream 한국어 패치 v1.0.1
+# ViruStream 한국어 패치 v1.1
 
 한글 번역: **컬리비**
 
